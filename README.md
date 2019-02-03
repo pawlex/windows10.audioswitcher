@@ -1,5 +1,5 @@
 # windows10.audioswitcher
-Task bar audio switcher
+## Windows Task bar Audio switcher
 
 #### Description
  * Uses NIRCMD to switch audio device.
